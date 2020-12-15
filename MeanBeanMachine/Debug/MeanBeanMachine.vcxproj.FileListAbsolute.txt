@@ -1,0 +1,2 @@
+D:\CProjects\MeanBeanMachine\Debug\MeanBeanMachine.exe
+D:\CProjects\MeanBeanMachine\Debug\MeanBeanMachine.pdb

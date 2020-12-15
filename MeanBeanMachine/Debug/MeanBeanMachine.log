@@ -1,0 +1,4 @@
+﻿  bean.cpp
+  Main.cpp
+D:\CProjects\MeanBeanMachine\Main.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MeanBeanMachine.vcxproj -> D:\CProjects\MeanBeanMachine\Debug\MeanBeanMachine.exe
